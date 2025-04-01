@@ -1,4 +1,18 @@
-## 🛠 Languages & Tools
+# 👋 Hey, I’m Yousef Qanadilo
+
+I'm a robotics + AI enthusiast and currently pursing a C in AI and Robotics. I am passionate about building intelligent systems that can learn, move, and adapt. From low-level control to high-level reasoning, I love exploring the full stack of mobile robotics and machine learning.
+
+---
+
+## 🧠 What I Work On
+
+- 🤖 **Mobile Robotics** – Motion planning, inverse kinematics, and closed-form control strategies for 3DOF+ manipulators.
+- 🧬 **AI & Machine Learning** – Backpropagation, gradient descent, optimizers, adversarial search, and constraint satisfaction problems.
+- 🧰 **Software Systems** – Scalable back-end systems using the MERN stack (MongoDB, Express, React, Node), containerized with Docker and orchestrated with ROS2.
+
+---
+
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
