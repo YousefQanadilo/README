@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Yousef Qanadilo
 
-I'm a robotics + AI enthusiast and currently pursing a C in AI and Robotics. I am passionate about building intelligent systems that can learn, move, and adapt. From low-level control to high-level reasoning, I love exploring the full stack of mobile robotics and machine learning.
+I'm a robotics + AI enthusiast and currently pursing a CS in AI and Robotics. I am passionate about building intelligent systems that can learn, move, and adapt. From low-level control to high-level reasoning, I love exploring the full stack of mobile robotics and machine learning.
 
 ---
 
