@@ -6,7 +6,7 @@ I'm a robotics + AI enthusiast and currently pursing a C in AI and Robotics. I a
 
 ## 🧠 What I Work On
 
-- 🤖 **Mobile Robotics** – Motion planning, inverse kinematics, and closed-form control strategies for 3DOF+ manipulators.
+- 🤖 **Mobile Robotics** – Motion planning, inverse kinematics, and closed-form control strategies for 6DOF+ manipulators.
 - 🧬 **AI & Machine Learning** – Backpropagation, gradient descent, optimizers, adversarial search, and constraint satisfaction problems.
 - 🧰 **Software Systems** – Scalable back-end systems using the MERN stack (MongoDB, Express, React, Node), containerized with Docker and orchestrated with ROS2.
 
